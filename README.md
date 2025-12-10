@@ -91,19 +91,17 @@ An easy-to-follow visualization that highlights comparisons and swaps.
 
 # How to Run the Program
 
-### 1. Install the required library:
-```
-pip install gradio
-```
+1. Access the Hugging Face link, posted under "Hugging Face Link". You can access the app from here
+  
+2. Once you open the app, enter the numbers you want to be sorted. These numbers should be separated by commas.
 
-### 2. Run the program:
-```
-python app.py
-```
+3. Click the "Start" button to start the sorting.
 
-### 3. Open the link printed in the terminal    
-```
-http://127.0.0.1:7860
+4. Click next to step (or auto run) through each comparison and swap.
+   
+5. Continue pressing next-step until the list is sorted.
+   
+6. Press reset after the list is sorted if the user wants to input another list.
 ```
 
 ---
@@ -121,6 +119,7 @@ https://github.com/user-attachments/assets/e393a8fc-ea9a-4b6e-b0da-b00687266727
 
 | `1,2,3,4,5` | No swaps — ends early |
 
+
 | `8,3,5,1` | Sorted as `[1,3,5,8]` |
 
 | `17` | Single number, no changes |
@@ -136,8 +135,8 @@ https://huggingface.co/spaces/arvelsamson/BubbleSpace
 ---
 
 # GitHub Repository  
-*(Add your GitHub project link here.)*
-
+[*(Add your GitHub project link here.)*
+](https://github.com/arvelsamson/CISC121-Final-Assignment)
 ---
 
 # Summary
@@ -150,6 +149,4 @@ This project demonstrates:
 - Strong computational thinking practices  
 - Clear documentation and testing  
 
-This meets all requirements for the assignment.
-
-
+# The End
