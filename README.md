@@ -119,17 +119,22 @@ Here are some tests I used to confirm the program works:
 
 https://github.com/user-attachments/assets/e393a8fc-ea9a-4b6e-b0da-b00687266727
 
+
 | `1,2,3,4,5` | No swaps — ends early |
 
+
 https://github.com/user-attachments/assets/425c4069-0045-46c6-9cb5-62249a118d80
+
 
 | `8,3,5,1` | Sorted as `[1,3,5,8]` |
 
 https://github.com/user-attachments/assets/b695e815-7a71-41da-aa00-10634c1ab799
 
+
 | `17` | Single number, no changes |
 
 https://github.com/user-attachments/assets/83a9e9f8-f50d-4098-abfe-2944d4772eaa
+
 
 | `4, x, 9` | Error message |
 
@@ -147,14 +152,22 @@ https://huggingface.co/spaces/arvelsamson/BubbleSpace
 (https://github.com/arvelsamson/CISC121-Final-Assignment)
 ---
 
-# Summary
+## Author & Acknowledgment
+**Name:** Arvel Samson
+**Queens Email:**24TQV5@queensu.ca
+**Student ID:** 20532064
+**Course:** CISC 121  
+**Python Version:** 3.12.11  
+**UI Framework:** Gradio  
+**Algorithm Used:** Bubble Sort  
 
-This project demonstrates:
+## 🙏 Acknowledgement  
+I created this project for my CISC 121 final assignment to help visualize how Bubble Sort works step-by-step. I used AI tools (ChatGPT 5.1) mainly to help me understand the assignment requirements, organize my thoughts, and debug parts of the code when something wasn’t working right. All of the actual decisions, testing, revisions, and final implementation were done by me. My classmates helped test the interface and gave quick feedback. I also used the course materials for breaking down computational thinking in a way that helped guide this project.
 
-- A complete Bubble Sort implementation  
-- A clean visual explanation of each comparison and swap  
-- Interactive controls using Gradio  
-- Strong computational thinking practices  
-- Clear documentation and testing  
+## 🔍 AI Use Disclaimer  
+AI support was used to:
+- clarify assignment instructions  
+- help brainstorm ideas for improving interactivity  
+- get help when a specific bug or UI button wasn't working correctly  
 
-# The End
+Everything else, the coding, testing, debugging, writing, and final design, was completed by me.
