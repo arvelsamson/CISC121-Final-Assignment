@@ -46,13 +46,13 @@ def parse_list(text):
 def run_sort(text):
     arr = parse_list(text)
     if arr is None:
-        return "❌ ERROR: Please enter comma-separated integers, e.g., 5, 2, 9, 1"
+        return "ERROR: Please enter comma-separated integers, e.g., 5, 2, 9, 1"
     return bubble_sort_steps(arr)
 
 
 with gr.Blocks() as demo:
     gr.Markdown("""
-    # 🫧 Bubble Sort Visual Simulation
+    #Bubble Sort Visual Simulation
     Enter a list of numbers to see how Bubble Sort works step-by-step.
     """)
 
