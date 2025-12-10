@@ -1,26 +1,23 @@
-# 🫧 Interactive Bubble Sort Visualizer
+#Interactive Bubble Sort Visualizer
 **CISC 121 – Final Assignment**  
 **Author:** Arvel Samson  
 
 ---
 
-## 📸 Demo Screenshot  
+##Demo Screenshot  
 
-https://github.com/user-attachments/assets/989e8e26-0787-45a3-911d-
 https://github.com/user-attachments/assets/a1541530-1585-4348-a2d3-46e9ee8db25a
-
-
 
 ---
 
-# 🧠 Problem Breakdown & Computational Thinking
+#Problem Breakdown & Computational Thinking
 
 For this project, I chose **Bubble Sort** because it’s simple to understand and perfect for showing how a sorting algorithm works step-by-step. The goal was to make the process visual and interactive so users can actually see what the algorithm is doing at each stage.
 
 To build the project, I broke the problem into smaller parts:
 
 1. Let the user input a list of numbers.  
-2. Parse the input and validate it.  
+2. Determine the input and validate it.  
 3. Sort the list using Bubble Sort.  
 4. Show every comparison and swap.  
 5. Make it interactive with buttons (Next Step, Auto-Run, Reset).  
@@ -28,7 +25,7 @@ To build the project, I broke the problem into smaller parts:
 
 ---
 
-# 🧩 Decomposition
+#Decomposition
 
 Here are the main components I identified:
 
@@ -40,7 +37,7 @@ Here are the main components I identified:
 
 ---
 
-# 🔁 Pattern Recognition
+#Pattern Recognition
 
 Some patterns that helped build the program:
 
@@ -51,7 +48,7 @@ Some patterns that helped build the program:
 
 ---
 
-# 🎭 Abstraction
+#Abstraction
 
 To avoid overwhelming the user, I only show:
 
@@ -65,7 +62,7 @@ Things like loop indexes, memory details, and internal state are hidden because 
 
 ---
 
-# 🧠 Algorithm Design (Input → Process → Output)
+#Algorithm Design (Input → Process → Output)
 
 ### **Input**
 The user types something like:
@@ -81,36 +78,18 @@ The user types something like:
 - Allow the user to move step-by-step or run automatically  
 
 ### **Output**
-A colorful, easy-to-follow visualization that highlights comparisons and swaps.
+An easy-to-follow visualization that highlights comparisons and swaps.
 
 ---
 
-# 🔄 Flowchart
+#Flowchart
 
-```mermaid
-flowchart TD
-    A[Start] --> B[User Enters Numbers]
-    B --> C[Parse Input]
-    C -->|Invalid| Z[Show Error]
-    C --> D[Initialize Bubble Sort Engine]
-    D --> E[Compare Adjacent Numbers]
-    E -->|Swap| F[Swap Them]
-    E -->|No Swap| G[Move On]
-    F --> H[More Comparisons?]
-    G --> H[More Comparisons?]
-    H -->|Yes| E
-    H -->|No| I[Pass Finished]
-    I -->|No Swaps| J[Stop Early - Sorted]
-    I -->|Swaps| K[Next Pass]
-    K --> E
-    J --> L[Show Final Sorted List]
-    L --> M[End]
-    Z --> M
-```
+<img width="1578" height="1856" alt="Image 2025-12-10 at 4 42 AM" src="https://github.com/user-attachments/assets/5fd2babf-201d-4828-b1fe-d8044fd075ce" />
+
 
 ---
 
-# ▶️ How to Run the Program
+#How to Run the Program
 
 ### 1. Install the required library:
 ```
@@ -130,33 +109,38 @@ http://127.0.0.1:7860
 
 ---
 
-# 🧪 Testing & Verification
+#Testing & Verification
 
 Here are some tests I used to confirm the program works:
 
 | Input | Expected Result |
 |-------|----------------|
+
 | `5,4,3,2,1` | Many swaps until sorted |
+https://github.com/user-attachments/assets/e393a8fc-ea9a-4b6e-b0da-b00687266727
+
 | `1,2,3,4,5` | No swaps — ends early |
+
 | `8,3,5,1` | Sorted as `[1,3,5,8]` |
+
 | `17` | Single number, no changes |
+
 | `4, x, 9` | Error message |
 
-*(Add screenshots of your tests here.)*
 
 ---
 
-# 🌐 Hugging Face Deployment  
-*(Add your deployment link after you upload the project.)*
+#Hugging Face Deployment  
+https://huggingface.co/spaces/arvelsamson/BubbleSpace
 
 ---
 
-# 📦 GitHub Repository  
+#GitHub Repository  
 *(Add your GitHub project link here.)*
 
 ---
 
-# ✔ Summary
+#Summary
 
 This project demonstrates:
 
