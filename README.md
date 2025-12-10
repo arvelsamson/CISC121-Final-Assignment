@@ -1,5 +1,4 @@
-# Interactive Bubble Sort Visualizer
-**CISC 121 – Final Assignment**  
+# Interactive Bubble Sort Visualizer - CISC 121 Final Assignment  
 ---
 
 ## Demo Video  
