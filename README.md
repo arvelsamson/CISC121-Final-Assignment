@@ -151,17 +151,11 @@ https://huggingface.co/spaces/arvelsamson/BubbleSpace
 
 ## Author & Acknowledgment
 **Name:** Arvel Samson  
-
 **Queens Email:** 24TQV5@queensu.ca  
-
 **Student ID:** 20532064  
-
 **Course:** CISC 121   
-
 **Python Version:** 3.12.11    
-
 **UI Framework:** Gradio  
-
 **Algorithm Used:** Bubble Sort  
 
 ## Acknowledgement  
