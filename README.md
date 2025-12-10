@@ -145,8 +145,7 @@ https://huggingface.co/spaces/arvelsamson/BubbleSpace
 ---
 
 # GitHub Repository  
-[*(Add your GitHub project link here.)*]
-(https://github.com/arvelsamson/CISC121-Final-Assignment)
+https://github.com/arvelsamson/CISC121-Final-Assignment
 ---
 
 ## Author & Acknowledgment
