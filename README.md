@@ -59,7 +59,7 @@ Things like loop indexes, memory details, and internal state are hidden because 
 
 ---
 
-#Algorithm Design (Input → Process → Output)
+# Algorithm Design (Input → Process → Output)
 
 ### **Input**
 The user types something like:
