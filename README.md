@@ -105,7 +105,6 @@ An easy-to-follow visualization that displays the output of the sorted list.
 5. Continue pressing next-step until the list is sorted.
    
 6. Press reset after the list is sorted if the user wants to input another list.
-```
 
 ---
 
@@ -122,13 +121,19 @@ https://github.com/user-attachments/assets/e393a8fc-ea9a-4b6e-b0da-b00687266727
 
 | `1,2,3,4,5` | No swaps — ends early |
 
+https://github.com/user-attachments/assets/425c4069-0045-46c6-9cb5-62249a118d80
 
 | `8,3,5,1` | Sorted as `[1,3,5,8]` |
 
+https://github.com/user-attachments/assets/b695e815-7a71-41da-aa00-10634c1ab799
+
 | `17` | Single number, no changes |
+
+https://github.com/user-attachments/assets/83a9e9f8-f50d-4098-abfe-2944d4772eaa
 
 | `4, x, 9` | Error message |
 
+https://github.com/user-attachments/assets/87644528-8cb3-422d-8ea2-be648b203a79
 
 ---
 
@@ -138,8 +143,8 @@ https://huggingface.co/spaces/arvelsamson/BubbleSpace
 ---
 
 # GitHub Repository  
-[*(Add your GitHub project link here.)*
-](https://github.com/arvelsamson/CISC121-Final-Assignment)
+[*(Add your GitHub project link here.)*]
+(https://github.com/arvelsamson/CISC121-Final-Assignment)
 ---
 
 # Summary
