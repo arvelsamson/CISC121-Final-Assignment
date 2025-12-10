@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/a1541530-1585-4348-a2d3-46e9ee8db25a
 
 ---
 
-#Problem Breakdown & Computational Thinking
+# Problem Breakdown & Computational Thinking
 
 For this project, I chose **Bubble Sort** because it’s simple to understand and perfect for showing how a sorting algorithm works step-by-step. The goal was to make the process visual and interactive so users can actually see what the algorithm is doing at each stage.
 
@@ -25,7 +25,7 @@ To build the project, I broke the problem into smaller parts:
 
 ---
 
-#Decomposition
+# Decomposition
 
 Here are the main components I identified:
 
@@ -37,7 +37,7 @@ Here are the main components I identified:
 
 ---
 
-#Pattern Recognition
+# Pattern Recognition
 
 Some patterns that helped build the program:
 
@@ -48,7 +48,7 @@ Some patterns that helped build the program:
 
 ---
 
-#Abstraction
+# Abstraction
 
 To avoid overwhelming the user, I only show:
 
@@ -82,14 +82,14 @@ An easy-to-follow visualization that highlights comparisons and swaps.
 
 ---
 
-#Flowchart
+# Flowchart
 
 <img width="1578" height="1856" alt="Image 2025-12-10 at 4 42 AM" src="https://github.com/user-attachments/assets/5fd2babf-201d-4828-b1fe-d8044fd075ce" />
 
 
 ---
 
-#How to Run the Program
+# How to Run the Program
 
 ### 1. Install the required library:
 ```
@@ -101,15 +101,14 @@ pip install gradio
 python app.py
 ```
 
-### 3. Open the link printed in the terminal  
-Usually:  
+### 3. Open the link printed in the terminal    
 ```
 http://127.0.0.1:7860
 ```
 
 ---
 
-#Testing & Verification
+# Testing & Verification
 
 Here are some tests I used to confirm the program works:
 
@@ -117,6 +116,7 @@ Here are some tests I used to confirm the program works:
 |-------|----------------|
 
 | `5,4,3,2,1` | Many swaps until sorted |
+
 https://github.com/user-attachments/assets/e393a8fc-ea9a-4b6e-b0da-b00687266727
 
 | `1,2,3,4,5` | No swaps — ends early |
@@ -130,17 +130,17 @@ https://github.com/user-attachments/assets/e393a8fc-ea9a-4b6e-b0da-b00687266727
 
 ---
 
-#Hugging Face Deployment  
+# Hugging Face Deployment  
 https://huggingface.co/spaces/arvelsamson/BubbleSpace
 
 ---
 
-#GitHub Repository  
+# GitHub Repository  
 *(Add your GitHub project link here.)*
 
 ---
 
-#Summary
+# Summary
 
 This project demonstrates:
 
