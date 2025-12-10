@@ -6,6 +6,11 @@
 
 ## 📸 Demo Screenshot  
 
+https://github.com/user-attachments/assets/989e8e26-0787-45a3-911d-
+https://github.com/user-attachments/assets/a1541530-1585-4348-a2d3-46e9ee8db25a
+
+
+
 ---
 
 # 🧠 Problem Breakdown & Computational Thinking
