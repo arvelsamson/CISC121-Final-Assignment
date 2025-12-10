@@ -78,7 +78,10 @@ The user types something like:
 - Allow the user to move step-by-step or run automatically  
 
 ### **Output**
-An easy-to-follow visualization that highlights comparisons and swaps.
+An easy-to-follow visualization that displays the output of the sorted list.
+```
+1, 3, 4, 5, 8
+```
 
 ---
 
