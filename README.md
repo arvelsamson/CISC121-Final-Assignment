@@ -1,7 +1,5 @@
 # Interactive Bubble Sort Visualizer
 **CISC 121 – Final Assignment**  
-**Author:** Arvel Samson  
-
 ---
 
 ## Demo Video  
