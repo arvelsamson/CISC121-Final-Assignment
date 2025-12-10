@@ -1,10 +1,10 @@
-#Interactive Bubble Sort Visualizer
+# Interactive Bubble Sort Visualizer
 **CISC 121 – Final Assignment**  
 **Author:** Arvel Samson  
 
 ---
 
-##Demo Screenshot  
+## Demo Screenshot  
 
 https://github.com/user-attachments/assets/a1541530-1585-4348-a2d3-46e9ee8db25a
 
