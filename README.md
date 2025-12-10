@@ -151,20 +151,20 @@ https://huggingface.co/spaces/arvelsamson/BubbleSpace
 
 ## Author & Acknowledgment
 **Name:** Arvel Samson
-**Queens Email:**24TQV5@queensu.ca
+**Queens Email:** 24TQV5@queensu.ca
 **Student ID:** 20532064
 **Course:** CISC 121  
 **Python Version:** 3.12.11  
 **UI Framework:** Gradio  
 **Algorithm Used:** Bubble Sort  
 
-## 🙏 Acknowledgement  
+## Acknowledgement  
 I created this project for my CISC 121 final assignment to help visualize how Bubble Sort works step-by-step. I used AI tools (ChatGPT 5.1) mainly to help me understand the assignment requirements, organize my thoughts, and debug parts of the code when something wasn’t working right. All of the actual decisions, testing, revisions, and final implementation were done by me. My classmates helped test the interface and gave quick feedback. I also used the course materials for breaking down computational thinking in a way that helped guide this project.
 
-## 🔍 AI Use Disclaimer  
+## AI Use Disclaimer  
 AI support was used to:
 - clarify assignment instructions  
 - help brainstorm ideas for improving interactivity  
 - get help when a specific bug or UI button wasn't working correctly  
 
-Everything else, the coding, testing, debugging, writing, and final design, was completed by me.
+**Everything else, the coding, testing, debugging, writing, and final design, was completed by me.**
